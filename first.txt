@@ -1,7 +1,13 @@
 I am trying to learn Git.first
 
+<<<<<<< HEAD
 
  I am at ankit Branch
 
 
 I am at second branch 
+=======
+ I am in master branch
+ I am at ankit Branch
+ Hello  I Am Nkit 
+>>>>>>> ankit
