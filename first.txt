@@ -5,9 +5,10 @@ I am trying to learn Git.first
  I am at ankit Branch
 
 
-I am at second branch 
+I am at second branch
 =======
  I am in master branch
  I am at ankit Branch
- Hello  I Am Nkit 
+ Hello  I Am Nkit
 >>>>>>> ankit
+Checku2
